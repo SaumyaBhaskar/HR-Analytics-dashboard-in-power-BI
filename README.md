@@ -1,6 +1,8 @@
-HR Analytics Dashboard using Power-BI
+PROJECT: HR Analytics Dashboard using Power-BI
 
-Objective of this project is to create a dashboard giving insights on attrition of company so that correct measures can be taken.
+OBJECTIVE: To create a dashboard giving insights on attrition of company so that correct measures can be taken.
+TOOLS USED: MS Excel, Power BI.
+PROCEDURE:
 
 Steps followed in this project are as follows:
 1. Used MS-Excel for retrieving the data into Power BI.
@@ -9,6 +11,8 @@ Steps followed in this project are as follows:
 4. Created measure and calculations according to the need and used them for creating viuals in Power BI.
 5. Data validation.
 6. Data Modelling and visualization.
+
+RESULT:
 
 This is what the dashboard looks like:
 
