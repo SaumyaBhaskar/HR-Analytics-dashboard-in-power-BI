@@ -68,7 +68,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/saumya-bh
 ---
 
 ## 🔗 Project Link
-[GitHub Repository Link](https://github.com/SaumyaBhaskar/HR-Analytics-dashboard-in-power-BI/edit/main/README.md)
+[GitHub Repository Link](https://github.com/SaumyaBhaskar/HR-Analytics-dashboard-in-power-BI)
 
 
 
