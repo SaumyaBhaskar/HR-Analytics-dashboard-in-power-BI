@@ -10,7 +10,7 @@ The main objective is to:
 - Provide insights to optimize workforce management and reduce turnover.
 
 ## 📚 Data Source
-- Dataset: [Add dataset link or mention source if available]
+- Dataset: [Source:Kaggle]
 - Data Attributes:
   - Employee ID
   - Department
